@@ -11,5 +11,9 @@
 - [Umbrella Rewards Controller](https://github.com/bgd-labs/aave-umbrella/blob/main/src/contracts/rewards/README.md) - Rewards controller contract documentation
 - [Permissioned Payloads Controller](https://github.com/bgd-labs/aave-governance-v3/blob/main/docs/permissioned-payloads-controller-overview.md) - Governance payloads controller overview
 
-## Updating Umbrella Rewards on Aave V3:
-- [Umbrella Rewards Configuration Guide](https://github.com/bgd-labs/aave-rewards-configuration/blob/fix/umbrella-rewards/docs/UmbrellaRewards.md) - Configuration guide for Umbrella rewards
+## Umbrella UI Documentation
+- [Umbrella UI](https://github.com/bgd-labs/umbrella-ui/blob/main/README.md) - Aave Umbrella UI documentation 
+
+## License
+This repository is licensed under the MIT License.
+Copyright (c) 2025 BGD Labs
