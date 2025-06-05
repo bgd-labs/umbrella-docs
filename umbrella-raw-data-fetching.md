@@ -8,10 +8,13 @@ RewardsController: 0x4655Ce3D625a63d30bA704087E52B4C31E38188B
 DataAggregationHelper: 0xcc8FD820B1b9C5EBACA8615927f2fFc1f74B9dB3
 Ethereum Core Pool V3: 0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2
 AaveOracle: 0x54586bE62E3c3580375aE3723C145253060Ca0C2
-StakeTokens: contracts not yet deployed
+StakeUSDC: 0x6bf183243FdD1e306ad2C4450BC7dcf6f0bf8Aa6
+StakeUSDT: 0xA484Ab92fe32B143AEE7019fC1502b1dAA522D31
+StakeWETH: 0xaAFD07D53A7365D3e9fb6F3a3B09EC19676B73Ce
+StakeGHO: 0x4f827A63755855cDf3e8f3bcD20265C833f15033
 ```
 
-**Note**: please check for latest contract addresses in Address Book: https://search.onaave.com/
+**Note**: Please check for the latest contract addresses in the Address Book: https://search.onaave.com/
 
 ## Data Retrieval Steps
 
