@@ -7,7 +7,7 @@ It depends.
 
 You can stay on the legacy stkGHO without any more risk of slashing and a cooldown of 20 days, but with lower rewards.
 
-Or you can migrate to Umbrella stkGHO, with higher rewards but risk of slashing and 20 20-day cooldown. If you opt for this, you need to do the following once the governance proposal is approved and executed:
+Or you can migrate to Umbrella stkGHO, with higher rewards but risk of slashing and 20-day cooldown. If you opt for this, you need to do the following once the governance proposal is approved and executed:
 
 1. Cooldown (required step, but you don't need to use any cooldown period) on the legacy stkGHO.
 2. Unstake your GHO.
