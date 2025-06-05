@@ -2,7 +2,7 @@
 
 ## Documentation
 
-- [Umbrella FAQ](umbrella-faq.md) - Frequently asked questions about the Umbrella protocol
+- [Umbrella FAQ](umbrella-faq.md) - Frequently asked questions about the Umbrella protocol, the Umbrella UI and other misc aspects
 - [Umbrella System Parameters Guide](umbrella-raw-data-fetching.md) - Guide for viewing Umbrella Protocol system parameters and data through Etherscan contract calls, including staking metrics, rewards, deficits, and user information.
 
 ## Smart Contracts Documentation
